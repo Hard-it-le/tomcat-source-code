@@ -9,6 +9,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <artifactId>apache-tomcat-8.5.50-src</artifactId>
   <name>Tomcat8.5</name>
   <version>8.5</version>
+  <properties>
+    <sonar.organization>hard-it-le</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
 
   <!--
 -Dcatalina.home=/Users/yujiale/AllProject/PrivateProject/tomcat-source-code/sources
