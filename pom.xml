@@ -12,6 +12,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <properties>
     <sonar.organization>hard-it-le</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
   </properties>
 
   <!--
